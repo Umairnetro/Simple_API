@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "job": "Software Engineer",
+      "email": "alice.johnson@example.com",
+      "phone": "+1-555-1234",
+      "country": "USA",
+      "about": "Loves coding and coffee.",
+      "username": "alicej",
+      "salary": "$120K",
+      "image": "https://source.unsplash.com/1600x900/?user"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "job": "Cybersecurity Analyst",
+      "email": "bob.smith@example.com",
+      "phone": "+44-20-7946-0958",
+      "country": "UK",
+      "about": "Passionate about ethical hacking.",
+      "username": "bobsmith",
+      "salary": "$95K",
+      "image": "https://source.unsplash.com/1600x900/?man"
+    }
+  ],
+  "funnyHacks": [
+    {
+      "id": 101,
+      "title": "Ellen’s Cupcake Recipe Hack",
+      "description": "UK intelligence hacked an online jihadist bomb-making site and replaced the bomb recipe with Ellen DeGeneres’s mojito cupcake recipe. Sweet and harmless!",
+      "year": 2011,
+      "source": "NordVPN"
+    },
+    {
+      "id": 102,
+      "title": "Printer Botnet Warning",
+      "description": "A hacker named Stackoverflowin took control of 150,000 unsecured printers and printed a funny warning message: 'YOUR PRINTER HAS BEEN OWNED.'",
+      "year": 2017,
+      "source": "NordVPN"
+    },
+    {
+      "id": 103,
+      "title": "Thunderstruck Power Plant",
+      "description": "During the Stuxnet cyberattack on Iranian nuclear centrifuges, AC/DC’s 'Thunderstruck' song blared randomly, adding a rock concert vibe to a cyberwarfare operation.",
+      "year": 2010,
+      "source": "PDQ"
+    },
+    {
+      "id": 104,
+      "title": "Novice Hacker Kid",
+      "description": "An 11-year-old boy in India hacked his father’s email and tried to blackmail him for 10 million rupees after learning hacking tricks on YouTube.",
+      "year": 2021,
+      "source": "SearchInform"
+    }
+  ]
+}
